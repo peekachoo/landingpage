@@ -1,0 +1,142 @@
+body {
+    margin: 0;
+}
+
+.one {
+    padding-bottom: 160px;
+    padding-left: 220px;
+    padding-right: 220px;
+    padding-top: 10px;
+    background-color: #1f2937;
+}
+
+.menu, .signup, .links {
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    gap: 20px;
+}
+.signup {
+    padding-top: 100px;
+}
+
+.logo {
+    color: #F9FAF8;
+    font-size: 24px;
+}
+
+#b1 {
+    border: 0;
+}
+
+#placeholder {
+    height: 250px;
+    width: 550px;
+    text-align: center;
+    line-height: 250px;
+    color: #E5E7EB;
+    background-color: #707881;
+}
+
+.text {
+    height: 250px;
+    width: 500px;
+}
+
+.text, a {
+    font-size: 18px;
+    color: #E5E7EB;
+    text-decoration: none;
+}
+
+#header-main {
+    font-size: 48px;
+    font-weight: extra-bold;
+    color: #F9FAF8;
+    margin: 0;
+}
+
+.two {
+    padding-left: 250px;
+    padding-right: 250px;
+    padding-top: 10px;
+    padding-bottom: 100px;
+}
+
+h2 {
+    padding-bottom: 30px;
+    text-align: center;
+    font-size: 36px;
+    font-weight: extra-bold;
+    color: #1F2937;
+}
+
+.images {
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+}
+
+.img2 {
+    height: 180px;
+    width: 180px;
+    border: 4px solid #3882F6;
+    border-radius: 8%;
+}
+
+.p2 {
+    width: 180px;
+    text-align: center;
+    color: #1F2937;
+}
+
+.three {
+    background-color: #E5E7EB;
+    color: #1f2937;
+    padding-left: 300px;
+    padding-right: 300px;
+    padding-top: 150px;
+    padding-bottom: 120px;
+    text-align: right;
+}
+
+.p3 {
+    font-size: 36px;
+    font-style: italic;
+    text-align: justify;
+    margin: 0;
+}
+
+strong {
+    font-size: 24px;
+}
+
+.four {
+    display: flex;
+    margin: 100px;
+    margin-left: 200px;
+    margin-right: 200px;
+    padding: 60px;
+    gap: 150px;
+    justify-content: center;
+    align-items: center;
+    background-color: #3882F6;
+    border-radius: 10px;
+    color: #F9FAF8;
+}
+
+h3, .pp4 {
+    margin: 0;
+}
+
+button {
+    height: 40px;
+    text-align: center;
+    width: 150px;
+    font-size: 18px;
+    background-color: #3882F6;
+    border: 2px solid #F9FAF8 ;
+    border-radius: 8px;
+    color: #F9FAF8;
+    font-weight: bold;
+}
